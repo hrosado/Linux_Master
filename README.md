@@ -1,2 +1,2 @@
-# Linux_Master
+# Linux Master
 Linux Projects
